@@ -1,5 +1,5 @@
 # LyraEditorExtensions
- Sample editor plugin for extending Unreal Engine 5's content browser and level editor. Made specifically for the Lyra framework, but *should* work with any Unreal project. Heavily based on Epic's implementation of the Paper2D plugin. Comes with example texture unpacker.
+ Sample editor plugin for extending Unreal Engine 5's content browser and level editor. Made specifically for the Lyra framework, but *should* work with any Unreal project. Heavily based on Epic's implementation of the Paper2D plugin. Comes with example texture unpacker. 100% C++.
 
 ## Installation
 1. Unzip or clone into your project's Plugins folder.

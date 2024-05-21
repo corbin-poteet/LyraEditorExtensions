@@ -1,4 +1,4 @@
-﻿#include "LyraLevelEditorExtensions.h"
+﻿#include "LevelEditor/LyraLevelEditorExtensions.h"
 
 void FLyraLevelEditorExtensions::InstallHooks()
 {

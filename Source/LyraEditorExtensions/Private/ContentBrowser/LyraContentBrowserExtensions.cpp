@@ -1,4 +1,5 @@
-﻿#include "LyraContentBrowserExtensions.h"
+﻿#include "ContentBrowser/LyraContentBrowserExtensions.h"
+
 #include "ContentBrowserDelegates.h"
 #include "ContentBrowserModule.h"
 #include "IContentBrowserSingleton.h"
@@ -28,7 +29,7 @@ public:
 };
 
 //////////////////////////////////////////////////////////////////////////
-// FCreateSpriteFromTextureExtension
+// FExtractChannelsFromTextureExtension
 
 #include "IAssetTools.h"
 #include "AssetToolsModule.h"
@@ -286,7 +287,7 @@ public:
 		{
 			uint8 CanCreateFlags = 0;
 			
-			// Add the sprite actions sub-menu extender
+			// Add the texture actions sub-menu extender
 			Extender->AddMenuExtension(
 				"GetAssetActions",
 				EExtensionHook::After,

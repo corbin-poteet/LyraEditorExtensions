@@ -8,7 +8,7 @@
 ## Example Features
 ### Texture Unpacker
 ![image](https://github.com/corbin-poteet/LyraEditorExtensions/assets/4257207/bab42f00-b3e7-4766-ae03-d24337cc0459)
-![image](https://github.com/corbin-poteet/LyraEditorExtensions/assets/4257207/1018ef82-100b-4f13-8c3a-b20920577e00)
+![image](https://github.com/corbin-poteet/LyraEditorExtensions/assets/4257207/32c84ac3-8225-4f92-ae82-9dc2cf2e0bfe)
 #### Features
 * Extracts texture color channels into their own greyscale textures.
 * Smart unpacking- won't unpack pure black or white channels, or unpack from textures with Grayscale or Normalmap compression settings.
